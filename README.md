@@ -1,4 +1,4 @@
 SIK
 ===
 
-Sparkfun Inventor's Kit Code
+My Sparkfun Inventor's Kit codes. Nothing special. Just need a place to store.
